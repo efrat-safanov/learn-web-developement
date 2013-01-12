@@ -3,9 +3,11 @@
 1. Preface
     * Motivation
     * Possibilities
+
 2. Overview
     * Client-Server
     * HTTP protocoll
+
 3. HyperTextMarkupLanguage
     * Idea behind
     * Tags
@@ -15,6 +17,7 @@
     * Tables
     * Forms
     * Layout
+
 4. CascadingStyleSheets
     * Reasoning
     * Selectors
@@ -23,6 +26,7 @@
     * Positioning
     * Special selectors
     * Code snippets
+
 5. JavaScript Fundamentels
     * Variables
     * Data types
@@ -33,6 +37,7 @@
     * Prototypes
     * Events
     * Code styles
+
 6. JavaScript Frontend
     * ModelView*
     * Model
@@ -41,20 +46,24 @@
     * Router
     * Examples
     * Module management
+
 7. JavaScript Backend
     * Nodejs basics
     * Static serving
     * Controllers
     * Data storage
     * Session management
+
 8. Samples
     * Preface
     * Version control
     * Architecture
     * Possible projects
+
 9. Libraries
     * Motivation
     * Internals of
+
 10. Own Libraries
     * Motivation
     * Advices
