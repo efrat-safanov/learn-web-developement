@@ -1,3 +1,7 @@
-This should give newbies a red line to get the required know-how to laterly build there own stuff.
+# Learn Web developement
 
-It is in the starting phase and there will be some more examples and maybe some theoretic aspects even though these aspects mostly explain themself after time.
+This collection should provide people who want to graduate in web developement a red string.
+
+For more details look into the table of content in doc/index.md
+
+By Bodo Kaiser
