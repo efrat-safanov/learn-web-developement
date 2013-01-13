@@ -24,3 +24,10 @@ I am not sure if there is enough fantasy to get some ideas in the backend as sta
 However there are also some interesting projects:
 Convert files over web api: https://transloadit.com/
 Programm a drone: http://nodecopter.com/
+
+
+In summary, it can be stated that nearly everything with web-developement is 
+possibile. The only thing you will notice is that when you reach a new level in 
+complexity this will require a new fundament to be built (e.g. a new abstraction
+level). This will offer a lot of time when and slow down your progress. However
+until now I cannot provide a solution for this issue...
